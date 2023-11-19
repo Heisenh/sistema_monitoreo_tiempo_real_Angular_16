@@ -6,3 +6,13 @@
   justify-content: center;
   height: 100%;
 }
+
+header, nav, section, article, aside, footer {
+  margin: 10px;
+  padding: 10px;
+}
+
+section {
+  display: flex;
+  justify-content: space-around;
+}
